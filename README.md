@@ -1,4 +1,4 @@
-# ACF-Strategic-Philanthropy
+# Strategic Philanthropy & SDG Impact Analysis 
 
 <img width="1363" height="764" alt="image" src="https://github.com/user-attachments/assets/fa7ef710-50a3-4a59-af47-879d3347c7ce" />
 <img width="1365" height="768" alt="image" src="https://github.com/user-attachments/assets/97796698-3e32-4743-9126-9ce485a6afca" />
